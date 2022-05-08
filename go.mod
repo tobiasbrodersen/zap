@@ -1,6 +1,6 @@
-module github.com/Unity-Technologies/uzap
+module github.com/tobiasbrodersen/zap
 
-go 1.14
+go 1.18
 
 require (
 	github.com/blendle/zapdriver v1.3.1
